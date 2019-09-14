@@ -1,2 +1,3 @@
-# img_share
+# ImgShare
+
 Image sharing Android App
